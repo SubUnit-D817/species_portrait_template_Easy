@@ -3,11 +3,6 @@
 :toc: left
 :toc-title: 目次
 
-== 0.注意事項
-　2025/8/1現在、コピー用スクリプトに不具合を確認しています。 +
-　申し訳ございませんが、自力での編集をお願いいたします。 +
-　中身は https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] と同じです。 +
-
 == 1.このMODについて
 　これはStellarisのポートレートMOD作成用の雛型です。 +
 　画像や用意したが、面倒なファイルの編集を極力したくない方向けの超絶簡易版です。 +
@@ -68,4 +63,5 @@ DDS(DirectDraw surface)形式とPSD（Photoshopドキュメント）形式が取
 　特に参考情報としてご自身が管理されているGitHubを教えて下さったのFatalErrorJP様、 +
 　大変参考になりました。また、コードの添削ありがとうございました。 +
 　ローカライズ定義のコメントを使わせて頂いてます。 +
+
 
